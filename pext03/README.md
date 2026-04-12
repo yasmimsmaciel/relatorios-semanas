@@ -80,6 +80,7 @@ O projeto contem:
 * Alline Heveline Bezerra Gaiao [ahbg@poli.br](mailto:ahbg@poli.br) @alineheveline
 * Carmen Lucia Layme Dantas Da Silva [carmen.layme@upe.br](mailto:carmen.layme@upe.br) @carmenlayme-ux
 * Hugo Smith Branquinho <hugo.branquinho@upe.br> @hugobranquinho1
+* Victor De Lima Melo [victor.limamelo@upe.br](mailto:victor.limamelo@upe.br) @vict0r-mel0
 
 
 ---
