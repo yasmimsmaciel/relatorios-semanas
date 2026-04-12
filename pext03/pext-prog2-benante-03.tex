@@ -1,0 +1,183 @@
+\documentclass{article}
+
+% ---------------- PACOTES ----------------
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[brazilian]{babel}
+\usepackage{array}
+\usepackage{float}
+\usepackage{listings}
+\usepackage{amsmath}
+\usepackage{geometry}
+
+\geometry{a4paper, margin=2.5cm}
+
+% ---------------- CONFIGURAÇÃO DO CÓDIGO C ----------------
+\lstset{
+    basicstyle=\ttfamily\small,
+    breaklines=true,
+    frame=single,
+    language=C
+}
+
+\begin{document}
+
+% =========================================================
+% ===================== PÁGINA 1 ===========================
+% =========================================================
+
+\begin{titlepage}
+\centering
+
+{\Large UNIVERSIDADE PÚBLICA DE PERNAMBUCO\par}
+
+\vspace{2cm}
+
+{\large ALUNOS:\par}
+
+\vspace{0.5cm}
+
+Alline Heveline Bezerra\\
+Carmen Lucia Layme\\
+Hugo Smith Branquinho\\
+Juan Kalebe Andrade\\
+Kauwane Fidelis De Souza\\
+Lucas Heitor Rodrigues\\
+Rhelter Santana de Freitas\\
+Sandro Goncalves da Silva Filho\\
+Victor de Lima Melo\\
+Yasmim Silva Maciel\\
+
+\vfill
+
+{\LARGE \textbf{FUNDAMENTOS DA LINGUAGEM C: ESTUDO SOBRE TIPOS DE DADOS}\par}
+
+\vfill
+
+\end{titlepage}
+
+% =========================================================
+% ===================== PÁGINA 2 ===========================
+% =========================================================
+
+\begin{titlepage}
+
+\centering
+
+{\Large UNIVERSIDADE PÚBLICA DE PERNAMBUCO\par}
+
+\vspace{1.5cm}
+
+{\large ALUNOS:\par}
+
+\vspace{0.5cm}
+
+Alline Heveline Bezerra\\
+Carmen Lucia Layme\\
+Hugo Smith Branquinho\\
+Juan Kalebe Andrade\\
+Kauwane Fidelis De Souza\\
+Lucas Heitor Rodrigues\\
+Rhelter Santana de Freitas\\
+Sandro Goncalves da Silva Filho\\
+Victor de Lima Melo\\
+Yasmim Silva Maciel\\
+
+\vfill
+
+{\LARGE \textbf{FUNDAMENTOS DA LINGUAGEM C: ESTUDO SOBRE TIPOS DE DADOS}\par}
+
+\vspace{1cm}
+
+\begin{flushright}
+Trabalho apresentado à disciplina de Programação como requisito parcial para obtenção de nota. Professor: Dr. Ruben Carlo Benante
+\end{flushright}
+
+\vfill
+
+\end{titlepage}
+
+% =========================================================
+% ===================== CONTEÚDO ===========================
+% =========================================================
+
+\section{Fundamentos da Linguagem C}
+
+A linguagem C é considerada uma linguagem de "médio nível" porque permite a manipulação direta da memória (ponteiros) ao mesmo tempo em que oferece estruturas de alto nível. Para dominar C, o primeiro passo é entender como os dados são armazenados e gerenciados.
+
+\subsection{Tipos Básicos de Dados}
+
+Em C, os tipos de dados definem o tamanho e o tipo de informação que uma variável pode armazenar. Os tipos fundamentais são:
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|l|l|l|}
+\hline
+\textbf{Tipo} & \textbf{Descrição} & \textbf{Tamanho} & \textbf{Intervalo Aproximado} \\ \hline
+\texttt{char} & Caractere individual & 1 byte & -128 a 127 \\ \hline
+\texttt{int} & Números inteiros & 4 bytes & $\pm$ 2,1 bilhões \\ \hline
+\texttt{float} & Ponto flutuante & 4 bytes & 6 a 7 casas decimais \\ \hline
+\texttt{double} & Precisão dupla & 8 bytes & 15 casas decimais \\ \hline
+\texttt{void} & Tipo vazio & - & - \\ \hline
+\end{tabular}
+\caption{Tipos de dados fundamentais em C.}
+\end{table}
+
+\subsubsection*{Modificadores de Tipo}
+
+\begin{itemize}
+    \item \textbf{signed / unsigned:} Define se o número aceita sinais negativos ou apenas positivos.
+    \item \textbf{short / long:} Altera o espaço de memória reservado para o dado.
+\end{itemize}
+
+\subsection{Declaração de Variáveis}
+
+Uma variável é um espaço nomeado na memória. A declaração segue a sintaxe:
+\texttt{tipo nome\_da\_variavel = valor\_inicial;}
+
+\textbf{Regras de Ouro:}
+\begin{itemize}
+    \item \textbf{Tipagem Estática:} Você deve declarar o tipo da variável antes de usá-la.
+    \item \textbf{Case Sensitive:} \texttt{idade} é diferente de \texttt{Idade}.
+    \item \textbf{Nomes Válidos:} Devem começar com letra ou underscore (\_), nunca com números.
+\end{itemize}
+
+\begin{lstlisting}[caption={Exemplo de declaracao de variaveis}]
+#include <stdio.h>
+
+int main() {
+    int idade = 25;           
+    float altura = 1.75;      
+    char inicial = 'G';       
+    
+    printf("Idade: %d, Altura: %.2f, Inicial: %c\n", idade, altura, inicial);
+    return 0;
+}
+\end{lstlisting}
+
+\subsection{Escopo de Variáveis}
+
+O escopo define onde uma variável pode ser acessada dentro do programa.
+
+\begin{itemize}
+    \item \textbf{Variáveis Locais:} Declaradas dentro de uma função ou bloco \texttt{\{ \}}. Só existem durante a execução daquele bloco.
+    \item \textbf{Variáveis Globais:} Declaradas fora de qualquer função. Podem ser acessadas e modificadas por todo o programa.
+\end{itemize}
+
+\begin{lstlisting}[caption={Exemplo de Escopo}]
+#include <stdio.h>
+
+int global_score = 100;
+
+void test_function() {
+    int local_val = 10;
+    printf("Global: %d, Local: %d\n", global_score, local_val);
+}
+
+int main() {
+    test_function();
+    return 0;
+}
+\end{lstlisting}
+
+\end{document}
