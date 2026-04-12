@@ -81,7 +81,8 @@ O projeto contem:
 * Carmen Lucia Layme Dantas Da Silva [carmen.layme@upe.br](mailto:carmen.layme@upe.br) @carmenlayme-ux
 * Hugo Smith Branquinho <hugo.branquinho@upe.br> @hugobranquinho1
 * Victor De Lima Melo [victor.limamelo@upe.br](mailto:victor.limamelo@upe.br) @vict0r-mel0
-
+* Lucas Heitor Rodrigues De Alcantara Velho Barretto [lucas.heitor@upe.br](malito:lucas.heitor@upe.br) @lucasheitor-beep
+* Sandro Goncalves Da Silva Filho [sandro.silvafilho@upe.br](malito:sandro.silvafilho@upe.br) @sandro.silvafilho-max
 
 ---
 
