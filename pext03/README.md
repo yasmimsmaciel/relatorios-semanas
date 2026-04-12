@@ -45,7 +45,7 @@ pext0X/
 |-- pext-prog2-benante-03.tex
 |-- pext-prog2-benante-03.pdf
 `-- imagens/
-    `-- exemplo1```
+    `-- exemplo1(IMAGEM VAZIA POIS NAO USAMOS PNG NO PROJETO)```
 
 ---
 
