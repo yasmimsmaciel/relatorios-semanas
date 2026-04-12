@@ -79,6 +79,8 @@ O projeto contem:
 * Kauwane Fidelis De Souza [kfs1@poli.br](mailto:kfs1@poli.br) @Kauwanefideliss
 * Alline Heveline Bezerra Gaiao [ahbg@poli.br](mailto:ahbg@poli.br) @alineheveline
 * Carmen Lucia Layme Dantas Da Silva [carmen.layme@upe.br](mailto:carmen.layme@upe.br) @carmenlayme-ux
+* Hugo Smith Branquinho <hugo.branquinho@upe.br> @hugobranquinho1
+
 
 ---
 
