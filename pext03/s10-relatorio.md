@@ -2,7 +2,7 @@
 
 ## Escola Politecnica de Pernambuco - POLI
 
-**Recife, 13 de maio de 2026**
+**Recife, 17 de maio de 2026**
 
 **Disciplina:** Programacao 2
 **Professor:** Ruben Benavente
@@ -22,12 +22,12 @@
 
 ---
 
-# Relatorio 09
+# Relatorio 10
 
 
 ## 1. Objetivo
 
-Iniciar o projeto petrix e iniciar a producao do video 04.
+Iniciar o projeto petri e iniciar a producao do video 04.
 
 ---
 
