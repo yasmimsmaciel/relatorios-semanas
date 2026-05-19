@@ -15,7 +15,6 @@
 * Juan Kalebe Andrade
 * Kauwane Fidelis de Souza
 * Lucas Heitor Rodrigues
-* Rhelter Santana de Freitas
 * Sandro Goncalves da Silva Filho
 * Victor d  e lima Melo
 * Yasmim Silva Maciel
