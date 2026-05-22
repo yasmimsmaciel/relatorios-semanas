@@ -1,33 +1,40 @@
+/*
+O if é conhecido como estrutura de decisão simples. 
+Ele é utilizado quando queremos executar um trecho de código apenas se determinada condição
+for verdadeira.
+A palavra if, em inglês, significa ‘se’. Então a lógica funciona assim: se algo acontecer, o
+programa executa determinada ação. Caso a condição seja falsa, o bloco simplesmente é
+ignorado.
+A estrut
+
+if <condicao>{
+    bloco de comandos so executado se a condicao for verdadeira;
+}
+
+*/
+
+
 #include <stdio.h>
 
-
 int main() {
-    // Sensores de um controlador industrial
-    int pressao = 100;
-    int limite = 80;
-    int verif_pressao = pressao > limite;
-    int uno = 1;
-    int emergencia_ativa = 0; // 0 para falso, 1 para verdadeiro
+    int peso = 100;
+    int limite = 110;
 
-    printf("verif_pressao = %d\t\tuno = %d\t\temergencia_ativa = %d\n",verif_pressao,uno,emergencia_ativa);
+    if (peso<limite){
+        printf("Pode participar da competicao\n\n");
+    }
 
-    int resultado_vago = emergencia_ativa && verif_pressao <= uno;
- 
-    int resultado_seguro = (emergencia_ativa && verif_pressao) <= uno;
+    if (peso<limite) 
+        printf("SEM {} Pode participar da competicao\n");
 
+    if (peso<limite)
+        printf("\nOUTRO Pode participar da competicao\n");
+        printf("Sempre aparece\n");
 
-    printf("Resultado sem clareza: %d\n", resultado_vago);
-    printf("Resultado com parenteses: %d\n\n", resultado_seguro);
-
-
-    // Exemplo de calculo matematico
-    float calculo_ambiguo = 10 + 20 / 2 * 5;
-    float calculo_claro = (10.0 + 20.0) / (2.0 * 5.0);
-
-
-    printf("Calculo automatico do C: %.2f\n", calculo_ambiguo);
-    printf("Calculo forcado por parenteses: %.2f\n", calculo_claro);
-
+    if (peso<limite){
+        printf("\nFINAL Pode participar da competicao\n");
+        printf("So aparece com o de cima\n");
+    }
 
     return 0;
 }
