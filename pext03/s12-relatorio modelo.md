@@ -16,7 +16,7 @@
 * Kauwane Fidelis de Souza
 * Lucas Heitor Rodrigues
 * Sandro Goncalves da Silva Filho
-* Victor d  e lima Melo
+* Victor de lima Melo
 * Yasmim Silva Maciel
 
 ---
@@ -26,14 +26,13 @@
 
 ## 1. Objetivo
 
-Iniciar o projeto petri e iniciar a producao do video 04.
+Entregar videos 05 e 06 e tambem a execucao do segundo passo na elaboracao do editor de texto.
 
 ---
 
 ## 2. Atividades Desenvolvidas
 
-Nesta semana iniciamos o projeto Rede Petri, planenjamos e estamos desenvolvendo a codagem para a entrega do traba
-lho em equipe.Dividimos o roteiro e gravamos o video 04.
+Nesta semana iniciamos as producoes dos videos 05 e 06 e executamos o segundo passo  na elaboracao do projeto final que nos possibilitou carregar arquivos txt para o editor onde conseguimos edita-lo parcialmente e salvar.
 
 ---
 
@@ -48,11 +47,10 @@ lho em equipe.Dividimos o roteiro e gravamos o video 04.
 
 ## 4. Resultados
 
-Apos a divisao de Atividades terminamos todos os arquivos, realizamos os testes e anexamos a pasta tanto da Rede
-petri quanto do video.
+Conseguimos abrir arquivo de texto no editor. Finalizamos e entregamos os video 05 e 06.
 
 ---
 
 ## 5. Planejamento para a proxima semana
 
-Para a proxima semana foi definido o inicio das producoes do video 05 e planejarmos o projeto final.
+Para a proxima semana foi definido a execucao do passo 3 para a elaboracao do projeto final.
