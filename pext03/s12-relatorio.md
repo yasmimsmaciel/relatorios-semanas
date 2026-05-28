@@ -26,13 +26,13 @@
 
 ## 1. Objetivo
 
-Entregar videos 05 e 06 e tambem a execucao do segundo passo na elaboracao do editor de texto.
+Finalizar roteiros para os videos 05 e 06 e tambem a mais funcoes de edicao no editor de texto.
 
 ---
 
 ## 2. Atividades Desenvolvidas
 
-Nesta semana iniciamos as producoes dos videos 05 e 06 e executamos o segundo passo  na elaboracao do projeto final que nos possibilitou carregar arquivos txt para o editor onde conseguimos edita-lo parcialmente e salvar.
+Nesta semana continuamos a producao dos roteiros dos videos 05 e 06 e implementamos novas funcionalidades no projeto final nos possibilitando apagar caracteres, pular linhas, mover entre inicio e final do arquivo, usar comandos copia e cola e pesquisa dentro do arquivo texto. Tambem inserimos a opcao de movimento no texto por meio das setas do teclado.
 
 ---
 
@@ -47,7 +47,7 @@ Nesta semana iniciamos as producoes dos videos 05 e 06 e executamos o segundo pa
 
 ## 4. Resultados
 
-Conseguimos abrir arquivo de texto no editor. Finalizamos e entregamos os video 05 e 06.
+Edicao mais abrangente e movimentacao mais simples em arquivos texto. Finalizamos os roteiros dos video 05 e 06.
 
 ---
 
