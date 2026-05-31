@@ -26,7 +26,7 @@
 
 ## 1. Objetivo
 
-Finalizar roteiros para os videos 05 e 06 e tambem a mais funcoes de edicao no editor de texto.
+Finalizar roteiros para os videos 05 e 06 e tambem adicionar mais funcoes de edicao no editor de texto.
 
 ---
 
