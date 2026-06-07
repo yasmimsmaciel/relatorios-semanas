@@ -26,14 +26,13 @@
 
 ## 1. Objetivo
 
-Iniciar o projeto petri e iniciar a producao do video 04.
+Iniciar a producao do video 05 e comecar com revisoes do projeto do editor de texto.
 
 ---
 
 ## 2. Atividades Desenvolvidas
 
-Nesta semana iniciamos o projeto Rede Petri, planenjamos e estamos desenvolvendo a codagem para a entrega do traba
-lho em equipe.Dividimos o roteiro e gravamos o video 04.
+Apos definicao do roteiro e escolha da ordem dos participantes, comecamos a gravacao dos videos individuais. Com isso feito geramos o video 06 completo, contando com o uso de ferramentas de edicao. Tambem revisamos e comecamos a montagem do menu de ajuda do nosso editor de texto usando palavras em portugues.
 
 ---
 
@@ -48,11 +47,10 @@ lho em equipe.Dividimos o roteiro e gravamos o video 04.
 
 ## 4. Resultados
 
-Apos a divisao de Atividades terminamos todos os arquivos, realizamos os testes e anexamos a pasta tanto da Rede
-petri quanto do video.
+Entrega do video 06 e menu de ajuda em portugues.
 
 ---
 
 ## 5. Planejamento para a proxima semana
 
-Para a proxima semana foi definido o inicio das producoes do video 05 e planejarmos o projeto final.
+Para a proxima semana foi definido o inicio das producoes do video 06 e roteiro final.
