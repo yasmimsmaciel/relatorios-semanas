@@ -25,15 +25,13 @@
 
 
 ## 1. Objetivo
-
-Iniciar o projeto petri e iniciar a producao do video 04.
+Produção de PDF com relatorio final com atividades de todas semanas, estatisticas, realizacoes e conclusoes, bem como finalizacao do video 06. 
 
 ---
 
 ## 2. Atividades Desenvolvidas
 
-Nesta semana iniciamos o projeto Rede Petri, planenjamos e estamos desenvolvendo a codagem para a entrega do traba
-lho em equipe.Dividimos o roteiro e gravamos o video 04.
+Nesta semana finalizamos o relatorio final em PDF, finalizamos as gravacoes e edicao do video 06. 
 
 ---
 
@@ -48,11 +46,10 @@ lho em equipe.Dividimos o roteiro e gravamos o video 04.
 
 ## 4. Resultados
 
-Apos a divisao de Atividades terminamos todos os arquivos, realizamos os testes e anexamos a pasta tanto da Rede
-petri quanto do video.
+Apos a divisao de Atividades terminamos todos os arquivos, realizamos os testes e finalizamos a edicao do video 06. 
 
 ---
 
 ## 5. Planejamento para a proxima semana
 
-Para a proxima semana foi definido o inicio das producoes do video 05 e planejarmos o projeto final.
+Para a proxima semana foi definido a continuidade das ultimas atividades do semestre a serem entregues bem como o projeto final. 
