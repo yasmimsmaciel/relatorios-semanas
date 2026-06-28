@@ -16,7 +16,7 @@
 * Kauwane Fidelis de Souza
 * Lucas Heitor Rodrigues
 * Sandro Goncalves da Silva Filho
-* Victor d  e lima Melo
+* Victor de lima Melo
 * Yasmim Silva Maciel
 
 ---
@@ -26,14 +26,13 @@
 
 ## 1. Objetivo
 
-Iniciar o projeto petri e iniciar a producao do video 04.
+Aguardar qualquer notificacao do professor.
 
 ---
 
 ## 2. Atividades Desenvolvidas
 
-Nesta semana iniciamos o projeto Rede Petri, planenjamos e estamos desenvolvendo a codagem para a entrega do traba
-lho em equipe.Dividimos o roteiro e gravamos o video 04.
+Nao temos mais atividades previstas na disciplina para essa semana.
 
 ---
 
@@ -48,8 +47,7 @@ lho em equipe.Dividimos o roteiro e gravamos o video 04.
 
 ## 4. Resultados
 
-Apos a divisao de Atividades terminamos todos os arquivos, realizamos os testes e anexamos a pasta tanto da Rede
-petri quanto do video.
+Nao temos mais atividades previstas na disciplina para essa semana.
 
 ---
 
