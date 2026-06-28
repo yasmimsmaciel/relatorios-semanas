@@ -16,7 +16,7 @@
 * Kauwane Fidelis de Souza
 * Lucas Heitor Rodrigues
 * Sandro Goncalves da Silva Filho
-* Victor d  e lima Melo
+* Victor de lima Melo
 * Yasmim Silva Maciel
 
 ---
@@ -26,20 +26,18 @@
 
 ## 1. Objetivo
 
-Iniciar o projeto petri e iniciar a producao do video 04.
+Finalizar projeto do editor de texto minimalista, fazer apresentacao do projeto e gravar os videos.
 
 ---
 
 ## 2. Atividades Desenvolvidas
 
-Nesta semana iniciamos o projeto Rede Petri, planenjamos e estamos desenvolvendo a codagem para a entrega do traba
-lho em equipe.Dividimos o roteiro e gravamos o video 04.
+Nesta semana finalizamos o projeto do editor de texto, produzimos a apresentacao e gravamos o video final com sua apresentacao junto com os teste das funcionalidades solicitadas.
 
 ---
 
 ## 3. Metodologia Utilizada
 
-* Pesquisa bibliografica
 * Revisao dos roteiros
 * Trabalho colaborativo com divisao de tarefas
 * Testes
@@ -48,11 +46,10 @@ lho em equipe.Dividimos o roteiro e gravamos o video 04.
 
 ## 4. Resultados
 
-Apos a divisao de Atividades terminamos todos os arquivos, realizamos os testes e anexamos a pasta tanto da Rede
-petri quanto do video.
+Terminamos e entregamos todos os arquivos na pasta de trabalhos. O video foi enviado para o Google Drive.
 
 ---
 
 ## 5. Planejamento para a proxima semana
 
-Para a proxima semana foi definido o inicio das producoes do video 05 e planejarmos o projeto final.
+Para a proxima semana nao temos mais atividades a realizar.
