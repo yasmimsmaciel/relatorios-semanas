@@ -53,4 +53,4 @@ Nao temos mais atividades previstas na disciplina para essa semana.
 
 ## 5. Planejamento para a proxima semana
 
-Para a proxima semana foi definido o inicio das producoes do video 05 e planejarmos o projeto final.
+Nao temos mais atividades previstas na disciplina para essa semana.
